@@ -1,8 +1,9 @@
 # CodePTIT
 
-# Tài liệu học thuật toán: https://vnoi.info/wiki/Home
 
-Plan .-.
+Tài liệu học thuật toán: https://vnoi.info/wiki/Home
+
+# Plan .-.
 
 Book
 [1] https://vnoi.info/wiki/algo/basic/Tai-Lieu-Thuat-Toan
